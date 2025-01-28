@@ -25,43 +25,44 @@ The algorithm terminates when `i = n`, at which point the entire array is sorted
 Your benchmarks should include information about your computer (RAM, CPU, etc.) and be run with various input sizes, from small (array of size 5, 10, 20) all the way up to large arrays (where your computer is struggling). Below is a plot of time vs input size `n`.
 
 ### System Information:
-- **Platform:** Windows 10
-- **Processor:** Intel64 Family 6 Model 142 Stepping 12, GenuineIntel
-- **RAM:** 7.86 GB
-- **Python Version:** 3.10.5
-- **ROM:** 500.00 GB
+- **Platform:** Darwin 20.6.0
+- **Processor:** i386
+- **RAM:** 8.00 GB
+- **Python Version:** 3.8.9
+- **ROM:** 465.57 GB
 
 ### Benchmarks
-- Bubble Sort - Input Size: 5, Time Taken: 0.000009 seconds
-- Bubble Sort - Input Size: 10, Time Taken: 0.000013 seconds
-- Bubble Sort - Input Size: 20, Time Taken: 0.000054 seconds
-- Bubble Sort - Input Size: 50, Time Taken: 0.000229 seconds
-- Bubble Sort - Input Size: 100, Time Taken: 0.000704 seconds
-- Bubble Sort - Input Size: 200, Time Taken: 0.002599 seconds
-- Bubble Sort - Input Size: 500, Time Taken: 0.036388 seconds
-- Bubble Sort - Input Size: 1000, Time Taken: 0.095313 seconds
-- Bubble Sort - Input Size: 2000, Time Taken: 0.371018 seconds
-- Bubble Sort - Input Size: 5000, Time Taken: 3.903183 seconds
-- Insertion Sort - Input Size: 5, Time Taken: 0.000011 seconds
-- Insertion Sort - Input Size: 10, Time Taken: 0.000022 seconds
-- Insertion Sort - Input Size: 20, Time Taken: 0.000033 seconds
-- Insertion Sort - Input Size: 50, Time Taken: 0.000242 seconds
-- Insertion Sort - Input Size: 100, Time Taken: 0.000717 seconds
-- Insertion Sort - Input Size: 200, Time Taken: 0.006655 seconds
-- Insertion Sort - Input Size: 500, Time Taken: 0.028255 seconds
-- Insertion Sort - Input Size: 1000, Time Taken: 0.130120 seconds
-- Insertion Sort - Input Size: 2000, Time Taken: 0.509646 seconds
-- Insertion Sort - Input Size: 5000, Time Taken: 1.991360 seconds
-- Selection Sort - Input Size: 5, Time Taken: 0.000009 seconds
-- Selection Sort - Input Size: 10, Time Taken: 0.000012 seconds
-- Selection Sort - Input Size: 20, Time Taken: 0.000025 seconds
-- Selection Sort - Input Size: 50, Time Taken: 0.000204 seconds
-- Selection Sort - Input Size: 100, Time Taken: 0.000502 seconds
-- Selection Sort - Input Size: 200, Time Taken: 0.002287 seconds
-- Selection Sort - Input Size: 500, Time Taken: 0.019244 seconds
-- Selection Sort - Input Size: 1000, Time Taken: 0.071132 seconds
-- Selection Sort - Input Size: 2000, Time Taken: 0.238462 seconds
-- Selection Sort - Input Size: 5000, Time Taken: 1.049084 seconds
 
+- Bubble Sort - Input Size: 5, Time Taken: 0.000008 seconds
+- Bubble Sort - Input Size: 10, Time Taken: 0.000014 seconds
+- Bubble Sort - Input Size: 20, Time Taken: 0.000045 seconds
+- Bubble Sort - Input Size: 50, Time Taken: 0.000263 seconds
+- Bubble Sort - Input Size: 100, Time Taken: 0.001033 seconds
+- Bubble Sort - Input Size: 200, Time Taken: 0.003278 seconds
+- Bubble Sort - Input Size: 500, Time Taken: 0.030660 seconds
+- Bubble Sort - Input Size: 1000, Time Taken: 0.118672 seconds
+- Bubble Sort - Input Size: 2000, Time Taken: 0.522428 seconds
+- Bubble Sort - Input Size: 5000, Time Taken: 3.119597 seconds
+- Insertion Sort - Input Size: 5, Time Taken: 0.000007 seconds
+- Insertion Sort - Input Size: 10, Time Taken: 0.000011 seconds
+- Insertion Sort - Input Size: 20, Time Taken: 0.000020 seconds
+- Insertion Sort - Input Size: 50, Time Taken: 0.000096 seconds
+- Insertion Sort - Input Size: 100, Time Taken: 0.000393 seconds
+- Insertion Sort - Input Size: 200, Time Taken: 0.001617 seconds
+- Insertion Sort - Input Size: 500, Time Taken: 0.015599 seconds
+- Insertion Sort - Input Size: 1000, Time Taken: 0.059270 seconds
+- Insertion Sort - Input Size: 2000, Time Taken: 0.199300 seconds
+- Insertion Sort - Input Size: 5000, Time Taken: 1.289965 seconds
+- Selection Sort - Input Size: 5, Time Taken: 0.000012 seconds
+- Selection Sort - Input Size: 10, Time Taken: 0.000016 seconds
+- Selection Sort - Input Size: 20, Time Taken: 0.000035 seconds
+- Selection Sort - Input Size: 50, Time Taken: 0.000110 seconds
+- Selection Sort - Input Size: 100, Time Taken: 0.000383 seconds
+- Selection Sort - Input Size: 200, Time Taken: 0.003373 seconds
+- Selection Sort - Input Size: 500, Time Taken: 0.018062 seconds
+- Selection Sort - Input Size: 1000, Time Taken: 0.058779 seconds
+- Selection Sort - Input Size: 2000, Time Taken: 0.182926 seconds
+- Selection Sort - Input Size: 5000, Time Taken: 1.605420 seconds
 
-![Graph](https://github.com/user-attachments/assets/36da32fc-354f-4b8c-ac44-257d1758a445)
+![Figure_1](https://github.com/user-attachments/assets/78a57dc5-06dc-45c0-a5fb-562b4206dd8f)
+
